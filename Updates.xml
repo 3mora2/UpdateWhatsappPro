@@ -2,18 +2,18 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>d3e0421a9a33286d1fd907eedb0fbfbcc36a0530</SHA1>
- <MetadataName>2022-12-31-1228_meta.7z</MetadataName>
+ <SHA1>054d00463eeab5b545b814675af2d12bd055c936</SHA1>
+ <MetadataName>2022-12-31-1234_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>com.pro.application</Name>
   <DisplayName>WhatsApp Pro</DisplayName>
   <Description>WhatsApp Pro</Description>
-  <Version>4.2.2.1</Version>
+  <Version>4.2.2.2</Version>
   <ReleaseDate>2022-12-31</ReleaseDate>
   <Script>installscript.js</Script>
   <UpdateText>This changed compared to the last release</UpdateText>
-  <UpdateFile UncompressedSize="112" CompressedSize="244" OS="Any"/>
-  <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>4fc59010a423888a55fe14dfcfcfdf592b29ae8f</SHA1>
+  <UpdateFile CompressedSize="45320813" UncompressedSize="160720851" OS="Any"/>
+  <DownloadableArchives>altgraph-0.17.2.dist-info.7z,base_library.zip,certifi.7z,cryptography.7z,cryptography-36.0.2.dist-info.7z,numpy.7z,pandas.7z,PIL.7z,psutil.7z,pyinstaller-4.10.dist-info.7z,PySide2.7z,pytz.7z,selen.7z,selenium.7z,setuptools-60.2.0.dist-info.7z,shiboken2.7z,wheel-0.37.1.dist-info.7z,win32com.7z,content.7z</DownloadableArchives>
+  <SHA1>91a6c4b1460359ef70d7c658f99dd1384272f2e9</SHA1>
  </PackageUpdate>
 </Updates>
