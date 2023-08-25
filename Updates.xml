@@ -2,18 +2,18 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>06cfbab3318ca65e953d68c8a6506bec3c7ae377</SHA1>
- <MetadataName>2023-08-10-1311_meta.7z</MetadataName>
+ <SHA1>40e43ae704d3561483df3e166e564b65baadf543</SHA1>
+ <MetadataName>2023-08-25-2058_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>com.pro.application</Name>
   <DisplayName>WhatsApp Pro</DisplayName>
   <Description>WhatsApp Pro</Description>
-  <Version>4.4.4.3</Version>
+  <Version>4.4.5</Version>
   <ReleaseDate>2023-08-10</ReleaseDate>
   <Script>installscript.js</Script>
   <UpdateText>This changed compared to the last release</UpdateText>
-  <UpdateFile CompressedSize="47423888" UncompressedSize="168185436" OS="Any"/>
-  <DownloadableArchives>base_library.zip,certifi.7z,cryptography.7z,cryptography-36.0.2.dist-info.7z,markupsafe.7z,numpy.7z,pandas.7z,PIL.7z,psutil.7z,PySide2.7z,pytz.7z,pywin32_system32.7z,selen.7z,selenium.7z,shiboken2.7z,wheel-0.37.1.dist-info.7z,win32.7z,content.7z</DownloadableArchives>
-  <SHA1>ceec4e2ba1798ec6b03e91016acb6c3376cda8a0</SHA1>
+  <UpdateFile UncompressedSize="168127182" OS="Any" CompressedSize="47364352"/>
+  <DownloadableArchives>base_library.zip,certifi.7z,cryptography.7z,cryptography-36.0.2.dist-info.7z,markupsafe.7z,numpy.7z,pandas.7z,PIL.7z,psutil.7z,PySide2.7z,pytz.7z,pywin32_system32.7z,selen.7z,selenium.7z,shiboken2.7z,wheel-0.41.2.dist-info.7z,win32.7z,content.7z</DownloadableArchives>
+  <SHA1>9be37518c260f51235e76570f4e970c345d53f1f</SHA1>
  </PackageUpdate>
 </Updates>
