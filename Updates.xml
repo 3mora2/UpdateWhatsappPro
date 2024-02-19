@@ -1,0 +1,19 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.pro.application</Name>
+  <DisplayName>WhatsApp Pro</DisplayName>
+  <Description>WhatsApp Pro</Description>
+  <Version>4.4.6.3</Version>
+  <ReleaseDate>2024-02-19</ReleaseDate>
+  <Script>installscript.js</Script>
+  <UpdateText>This changed compared to the last release</UpdateText>
+  <UpdateFile UncompressedSize="201441605" OS="Any" CompressedSize="51606267"/>
+  <DownloadableArchives>_internal.7z,content.7z</DownloadableArchives>
+  <SHA1>6437c3a8f163d1bb51d20163616b2d6a511c5b65</SHA1>
+ </PackageUpdate>
+ <SHA1>3b905d5ce790506092e362c02e08c0d34a8221eb</SHA1>
+ <MetadataName>2024-02-19-1004_meta.7z</MetadataName>
+</Updates>
