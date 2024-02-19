@@ -6,14 +6,14 @@
   <Name>com.pro.application</Name>
   <DisplayName>WhatsApp Pro</DisplayName>
   <Description>WhatsApp Pro</Description>
-  <Version>4.4.6.1</Version>
-  <ReleaseDate>2024-02-17</ReleaseDate>
+  <Version>4.4.6.2</Version>
+  <ReleaseDate>2024-02-19</ReleaseDate>
   <Script>installscript.js</Script>
   <UpdateText>This changed compared to the last release</UpdateText>
-  <UpdateFile CompressedSize="51637481" UncompressedSize="201463881" OS="Any"/>
+  <UpdateFile CompressedSize="51604595" OS="Any" UncompressedSize="201441605"/>
   <DownloadableArchives>_internal.7z,content.7z</DownloadableArchives>
-  <SHA1>5dd74820e2ea2f13bda3cb868e01aa76dc1b25e3</SHA1>
+  <SHA1>b10fa7ef2a3499a1423deee03f361e2dd30bdaf6</SHA1>
  </PackageUpdate>
- <SHA1>6ba7a5d38e670cfce3dde827dd62917c9cfc90e0</SHA1>
- <MetadataName>2024-02-17-0910_meta.7z</MetadataName>
+ <SHA1>9f193b4cac2ab41db401456c74c042f24aa2c3ce</SHA1>
+ <MetadataName>2024-02-19-0916_meta.7z</MetadataName>
 </Updates>
